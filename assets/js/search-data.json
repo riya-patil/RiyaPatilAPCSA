@@ -3,9 +3,9 @@
     
         "post0": {
             "title": "First Post",
-            "content": "Hello . Welcome to my post! :) . image: images/hello.png .",
-            "url": "https://riya-patil.github.io/fastpages-csa/markdown/fastpages/2022/08/21/my-first-post.html",
-            "relUrl": "/markdown/fastpages/2022/08/21/my-first-post.html",
+            "content": "Hello . Welcome to my post! :) .",
+            "url": "https://riya-patil.github.io/fastpages-csa/markdown/fastpages/jupyter/2022/08/21/my-first-post.html",
+            "relUrl": "/markdown/fastpages/jupyter/2022/08/21/my-first-post.html",
             "date": " • Aug 21, 2022"
         }
         
